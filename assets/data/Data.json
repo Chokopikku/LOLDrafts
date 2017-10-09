@@ -1,0 +1,86 @@
+[
+  {
+    "champion": {
+      "id": "aatrox",
+      "body": "Aatrox"
+    }
+  },
+  {
+    "champion": {
+      "id": "ahri",
+      "body": "Ahri"
+    }
+  },
+  {
+    "champion": {
+      "id": "akali",
+      "body": "Akali"
+    }
+  },
+  {
+    "champion": {
+      "id": "alistar",
+      "body": "Alistar"
+    }
+  },
+  {
+    "champion": {
+      "id": "anivia",
+      "body": "Anivia"
+    }
+  },
+  {
+    "champion": {
+      "id": "annie",
+      "body": "Annie"
+    }
+  },
+  {
+    "champion": {
+      "id": "amumu",
+      "body": "Amumu"
+    }
+  },
+  {
+    "champion": {
+      "id": "ashe",
+      "body": "Ashe"
+    }
+  },
+  {
+    "champion": {
+      "id": "aurelionsol",
+      "body": "Aurelion Sol"
+    }
+  },
+  {
+    "champion": {
+      "id": "azir",
+      "body": "Azir"
+    }
+  },
+  {
+    "champion": {
+      "id": "bard",
+      "body": "Bard"
+    }
+  },
+  {
+    "champion": {
+      "id": "blitzcrank",
+      "body": "Blitzcrank"
+    }
+  },
+  {
+    "champion": {
+      "id": "brand",
+      "body": "Brand"
+    }
+  },
+  {
+    "champion": {
+      "id": "braum",
+      "body": "Braum"
+    }
+  },
+]
