@@ -49,7 +49,7 @@ export const styles = StyleSheet.create({
   },
   searchListText: {
     alignSelf: 'center',
-    fontFamily: 'VincHand',
+    fontFamily: 'AvantGarde',
     fontSize: 20,
     margin: 6,
   },
