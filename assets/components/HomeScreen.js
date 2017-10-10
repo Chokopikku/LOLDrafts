@@ -24,7 +24,7 @@ export default class HomeScreen extends Component {
   }
   async componentDidMount() {
     await Expo.Font.loadAsync({
-      'VincHand': require('../fonts/VincHand.ttf')
+      'VincHand': require('../fonts/VincHand-Regular.ttf')
     });
     this.setState({ isReady: true });
   }

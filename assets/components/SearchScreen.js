@@ -36,7 +36,8 @@ export default class SearchScreen extends Component {
   }
   async componentDidMount() {
     await Expo.Font.loadAsync({
-      'VincHand': require('../fonts/VincHand.ttf')
+      'VincHand': require('../fonts/VincHand-Regular.ttf'),
+      'AvantGarde': require('../fonts/AvantGarde-Regular.ttf')
     });
     this.setState({ isReady: true });
   }
