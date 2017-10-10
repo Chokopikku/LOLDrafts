@@ -19,6 +19,9 @@ export default class HomeScreen extends Component {
       isReady: false,
     };
   }
+  componentWillMount() {
+    Expo.ScreenOrientation.allow(Expo.ScreenOrientation.Orientation.PORTRAIT);
+  }
   async componentDidMount() {
     await Expo.Font.loadAsync({
       'VincHand': require('../fonts/VincHand.ttf')
