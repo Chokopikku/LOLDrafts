@@ -25,6 +25,12 @@
   },
   {
     "champion": {
+      "id": "amumu",
+      "body": "Amumu"
+    }
+  },
+  {
+    "champion": {
       "id": "anivia",
       "body": "Anivia"
     }
@@ -33,12 +39,6 @@
     "champion": {
       "id": "annie",
       "body": "Annie"
-    }
-  },
-  {
-    "champion": {
-      "id": "amumu",
-      "body": "Amumu"
     }
   },
   {
@@ -81,6 +81,750 @@
     "champion": {
       "id": "braum",
       "body": "Braum"
+    }
+  },
+  {
+    "champion": {
+      "id": "caitlyn",
+      "body": "Caitlyn"
+    }
+  },
+  {
+    "champion": {
+      "id": "camille",
+      "body": "Camille"
+    }
+  },
+  {
+    "champion": {
+      "id": "cassiopeia",
+      "body": "Cassiopeia"
+    }
+  },
+  {
+    "champion": {
+      "id": "chogath",
+      "body": "Cho'Gath"
+    }
+  },
+  {
+    "champion": {
+      "id": "corki",
+      "body": "Corki"
+    }
+  },
+  {
+    "champion": {
+      "id": "darius",
+      "body": "Darius"
+    }
+  },
+  {
+    "champion": {
+      "id": "diana",
+      "body": "Diana"
+    }
+  },
+  {
+    "champion": {
+      "id": "drmundo",
+      "body": "Dr. Mundo"
+    }
+  },
+  {
+    "champion": {
+      "id": "draven",
+      "body": "Draven"
+    }
+  },
+  {
+    "champion": {
+      "id": "ekko",
+      "body": "Ekko"
+    }
+  },
+  {
+    "champion": {
+      "id": "elise",
+      "body": "Elise"
+    }
+  },
+  {
+    "champion": {
+      "id": "evelynn",
+      "body": "Evelynn"
+    }
+  },
+  {
+    "champion": {
+      "id": "ezreal",
+      "body": "Ezreal"
+    }
+  },
+  {
+    "champion": {
+      "id": "fiddlesticks",
+      "body": "Fiddlesticks"
+    }
+  },
+  {
+    "champion": {
+      "id": "fiora",
+      "body": "Fiora"
+    }
+  },
+  {
+    "champion": {
+      "id": "fizz",
+      "body": "Fizz"
+    }
+  },
+  {
+    "champion": {
+      "id": "galio",
+      "body": "Gaalio"
+    }
+  },
+  {
+    "champion": {
+      "id": "gangplank",
+      "body": "Gangplank"
+    }
+  },
+  {
+    "champion": {
+      "id": "garen",
+      "body": "Garen"
+    }
+  },
+  {
+    "champion": {
+      "id": "gnar",
+      "body": "Gnar"
+    }
+  },
+  {
+    "champion": {
+      "id": "gragas",
+      "body": "Gragas"
+    }
+  },
+  {
+    "champion": {
+      "id": "graves",
+      "body": "Graves"
+    }
+  },
+  {
+    "champion": {
+      "id": "hecarim",
+      "body": "Hecarim"
+    }
+  },
+  {
+    "champion": {
+      "id": "heimerdinger",
+      "body": "Heimerdinger"
+    }
+  },
+  {
+    "champion": {
+      "id": "illaoi",
+      "body": "Illaoi"
+    }
+  },
+  {
+    "champion": {
+      "id": "irelia",
+      "body": "Irelia"
+    }
+  },
+  {
+    "champion": {
+      "id": "ivern",
+      "body": "Ivern"
+    }
+  },
+  {
+    "champion": {
+      "id": "janna",
+      "body": "Janna"
+    }
+  },
+  {
+    "champion": {
+      "id": "jarvaniv",
+      "body": "Jarvan IV"
+    }
+  },
+  {
+    "champion": {
+      "id": "jax",
+      "body": "Jax"
+    }
+  },
+  {
+    "champion": {
+      "id": "jayce",
+      "body": "Jayce"
+    }
+  },
+  {
+    "champion": {
+      "id": "jhin",
+      "body": "Jhin"
+    }
+  },
+  {
+    "champion": {
+      "id": "jinx",
+      "body": "Jinx"
+    }
+  },
+  {
+    "champion": {
+      "id": "kalista",
+      "body": "Kalista"
+    }
+  },
+  {
+    "champion": {
+      "id": "karma",
+      "body": "Karma"
+    }
+  },
+  {
+    "champion": {
+      "id": "karthus",
+      "body": "Karthus"
+    }
+  },
+  {
+    "champion": {
+      "id": "kassadin",
+      "body": "Kassadin"
+    }
+  },
+  {
+    "champion": {
+      "id": "katarina",
+      "body": "Katarina"
+    }
+  },
+  {
+    "champion": {
+      "id": "kayle",
+      "body": "Kayle"
+    }
+  },
+  {
+    "champion": {
+      "id": "kayn",
+      "body": "Kayn"
+    }
+  },
+  {
+    "champion": {
+      "id": "kennen",
+      "body": "Kennen"
+    }
+  },
+  {
+    "champion": {
+      "id": "khazix",
+      "body": "Kha'Zix"
+    }
+  },
+  {
+    "champion": {
+      "id": "kindred",
+      "body": "Kindred"
+    }
+  },
+  {
+    "champion": {
+      "id": "kled",
+      "body": "Kled"
+    }
+  },
+  {
+    "champion": {
+      "id": "kogmaw",
+      "body": "Kog'Maw"
+    }
+  },
+  {
+    "champion": {
+      "id": "leblanc",
+      "body": "LeBlanc"
+    }
+  },
+  {
+    "champion": {
+      "id": "leesin",
+      "body": "Lee Sin"
+    }
+  },
+  {
+    "champion": {
+      "id": "leona",
+      "body": "Leona"
+    }
+  },
+  {
+    "champion": {
+      "id": "lissandra",
+      "body": "Lissandra"
+    }
+  },
+  {
+    "champion": {
+      "id": "lucian",
+      "body": "Lucian"
+    }
+  },
+  {
+    "champion": {
+      "id": "lulu",
+      "body": "Lulu"
+    }
+  },
+  {
+    "champion": {
+      "id": "lux",
+      "body": "Lux"
+    }
+  },
+  {
+    "champion": {
+      "id": "malphite",
+      "body": "Malphite"
+    }
+  },
+  {
+    "champion": {
+      "id": "malzahar",
+      "body": "Malzahar"
+    }
+  },
+  {
+    "champion": {
+      "id": "maokai",
+      "body": "Maokai"
+    }
+  },
+  {
+    "champion": {
+      "id": "masteryi",
+      "body": "Master Yi"
+    }
+  },
+  {
+    "champion": {
+      "id": "missfortune",
+      "body": "Miss Fortune"
+    }
+  },
+  {
+    "champion": {
+      "id": "mordekaiser",
+      "body": "Mordekaiser"
+    }
+  },
+  {
+    "champion": {
+      "id": "morgana",
+      "body": "Morgana"
+    }
+  },
+  {
+    "champion": {
+      "id": "nami",
+      "body": "Nami"
+    }
+  },
+  {
+    "champion": {
+      "id": "nasus",
+      "body": "Nasus"
+    }
+  },
+  {
+    "champion": {
+      "id": "nautilus",
+      "body": "Nautilus"
+    }
+  },
+  {
+    "champion": {
+      "id": "nidalee",
+      "body": "Nidalee"
+    }
+  },
+  {
+    "champion": {
+      "id": "nocturne",
+      "body": "Nocturne"
+    }
+  },
+  {
+    "champion": {
+      "id": "nunu",
+      "body": "Nunu"
+    }
+  },
+  {
+    "champion": {
+      "id": "olaf",
+      "body": "Olaf"
+    }
+  },
+  {
+    "champion": {
+      "id": "orianna",
+      "body": "Orianna"
+    }
+  },
+  {
+    "champion": {
+      "id": "ornn",
+      "body": "Ornn"
+    }
+  },
+  {
+    "champion": {
+      "id": "pantheon",
+      "body": "Pantheon"
+    }
+  },
+  {
+    "champion": {
+      "id": "poppy",
+      "body": "Poppy"
+    }
+  },
+  {
+    "champion": {
+      "id": "quinn",
+      "body": "Quinn"
+    }
+  },
+  {
+    "champion": {
+      "id": "rakan",
+      "body": "Rakan"
+    }
+  },
+  {
+    "champion": {
+      "id": "rammus",
+      "body": "Rammus"
+    }
+  },
+  {
+    "champion": {
+      "id": "reksai",
+      "body": "Rek'Sai"
+    }
+  },
+  {
+    "champion": {
+      "id": "renekton",
+      "body": "Renekton"
+    }
+  },
+  {
+    "champion": {
+      "id": "rengar",
+      "body": "Rengar"
+    }
+  },
+  {
+    "champion": {
+      "id": "riven",
+      "body": "Riven"
+    }
+  },
+  {
+    "champion": {
+      "id": "rumble",
+      "body": "Rumble"
+    }
+  },
+  {
+    "champion": {
+      "id": "ryze",
+      "body": "Ryze"
+    }
+  },
+  {
+    "champion": {
+      "id": "sejuani",
+      "body": "Sejuani"
+    }
+  },
+  {
+    "champion": {
+      "id": "shaco",
+      "body": "Shaco"
+    }
+  },
+  {
+    "champion": {
+      "id": "shen",
+      "body": "Shen"
+    }
+  },
+  {
+    "champion": {
+      "id": "shyvana",
+      "body": "Shyvana"
+    }
+  },
+  {
+    "champion": {
+      "id": "singed",
+      "body": "Singed"
+    }
+  },
+  {
+    "champion": {
+      "id": "sion",
+      "body": "Sion"
+    }
+  },
+  {
+    "champion": {
+      "id": "sivir",
+      "body": "Sivir"
+    }
+  },
+  {
+    "champion": {
+      "id": "skarner",
+      "body": "Skarner"
+    }
+  },
+  {
+    "champion": {
+      "id": "sona",
+      "body": "Sona"
+    }
+  },
+  {
+    "champion": {
+      "id": "soraka",
+      "body": "Soraka"
+    }
+  },
+  {
+    "champion": {
+      "id": "swain",
+      "body": "Swain"
+    }
+  },
+  {
+    "champion": {
+      "id": "syndra",
+      "body": "Syndra"
+    }
+  },
+  {
+    "champion": {
+      "id": "tahmkench",
+      "body": "Tahm Kench"
+    }
+  },
+  {
+    "champion": {
+      "id": "taliyah",
+      "body": "Taliyah"
+    }
+  },
+  {
+    "champion": {
+      "id": "talon",
+      "body": "Talon"
+    }
+  },
+  {
+    "champion": {
+      "id": "taric",
+      "body": "Taric"
+    }
+  },
+  {
+    "champion": {
+      "id": "teemo",
+      "body": "Teemo"
+    }
+  },
+  {
+    "champion": {
+      "id": "thresh",
+      "body": "Thresh"
+    }
+  },
+  {
+    "champion": {
+      "id": "tristana",
+      "body": "Tristana"
+    }
+  },
+  {
+    "champion": {
+      "id": "trundle",
+      "body": "Trundle"
+    }
+  },
+  {
+    "champion": {
+      "id": "tryndamere",
+      "body": "Tryndamere"
+    }
+  },
+  {
+    "champion": {
+      "id": "twistedfate",
+      "body": "Twisted Fate"
+    }
+  },
+  {
+    "champion": {
+      "id": "twitch",
+      "body": "Twitch"
+    }
+  },
+  {
+    "champion": {
+      "id": "udyr",
+      "body": "Udyr"
+    }
+  },
+  {
+    "champion": {
+      "id": "urgot",
+      "body": "Urgot"
+    }
+  },
+  {
+    "champion": {
+      "id": "varus",
+      "body": "Varus"
+    }
+  },
+  {
+    "champion": {
+      "id": "vayne",
+      "body": "Vayne"
+    }
+  },
+  {
+    "champion": {
+      "id": "veigar",
+      "body": "Veigar"
+    }
+  },
+  {
+    "champion": {
+      "id": "velkoz",
+      "body": "Vel'Koz"
+    }
+  },
+  {
+    "champion": {
+      "id": "vi",
+      "body": "Vi"
+    }
+  },
+  {
+    "champion": {
+      "id": "viktor",
+      "body": "Viktor"
+    }
+  },
+  {
+    "champion": {
+      "id": "vladimir",
+      "body": "Vladimir"
+    }
+  },
+  {
+    "champion": {
+      "id": "volibear",
+      "body": "Volibear"
+    }
+  },
+  {
+    "champion": {
+      "id": "warwick",
+      "body": "Warwick"
+    }
+  },
+  {
+    "champion": {
+      "id": "wukong",
+      "body": "Wukong"
+    }
+  },
+  {
+    "champion": {
+      "id": "xayah",
+      "body": "Xayah"
+    }
+  },
+  {
+    "champion": {
+      "id": "xerath",
+      "body": "Xerath"
+    }
+  },
+  {
+    "champion": {
+      "id": "xinzhao",
+      "body": "Xin Zhao"
+    }
+  },
+  {
+    "champion": {
+      "id": "yasuo",
+      "body": "Yasuo"
+    }
+  },
+  {
+    "champion": {
+      "id": "yorick",
+      "body": "Yorick"
+    }
+  },
+  {
+    "champion": {
+      "id": "zac",
+      "body": "Zac"
+    }
+  },
+  {
+    "champion": {
+      "id": "zed",
+      "body": "Zed"
+    }
+  },
+  {
+    "champion": {
+      "id": "ziggs",
+      "body": "Ziggs"
+    }
+  },
+  {
+    "champion": {
+      "id": "zilean",
+      "body": "Zilean"
+    }
+  },
+  {
+    "champion": {
+      "id": "zyra",
+      "body": "Zyra"
     }
   },
 ]
