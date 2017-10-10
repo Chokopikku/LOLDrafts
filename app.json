@@ -1,5 +1,12 @@
 {
   "expo": {
-    "sdkVersion": "21.0.0"
+    "name": "LOLDrafts",
+    "description": "N/D",
+    "slug": "loldrafts",
+    "sdkVersion": "21.0.0",
+    "privacy": "public",
+    "version": "0.1.1",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png"
   }
 }
