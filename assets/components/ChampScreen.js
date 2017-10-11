@@ -2,9 +2,6 @@ import React, { Component } from 'react';
 import {
   Text,
   View,
-  Button,
-  TouchableOpacity,
-  Alert,
 } from 'react-native';
 import Expo from 'expo';
 import { styles } from '../styles/Styles.js'

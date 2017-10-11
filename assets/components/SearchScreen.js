@@ -1,11 +1,10 @@
 import React, { Component } from 'react';
 import {
-  StyleSheet,
-  Text,
-  View,
-  TouchableOpacity,
   ListView,
+  Text,
   TextInput,
+  TouchableOpacity,
+  View,
 } from 'react-native';
 import Expo from 'expo';
 import { styles } from '../styles/Styles.js'
