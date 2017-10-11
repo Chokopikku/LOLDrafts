@@ -37,7 +37,8 @@ export default class SearchScreen extends Component {
   async componentDidMount() {
     await Expo.Font.loadAsync({
       'VincHand': require('../fonts/VincHand-Regular.ttf'),
-      'AvantGarde': require('../fonts/AvantGarde-Regular.ttf')
+      'AvantGarde': require('../fonts/AvantGarde-Regular.ttf'),
+      'OpenSans': require('../fonts/Open_Sans/OpenSans-Regular.ttf'),
     });
     this.setState({ isReady: true });
   }
@@ -63,7 +64,7 @@ export default class SearchScreen extends Component {
           style={styles.searchList}
           enableEmptySections={true}
           renderRow={(r) =>
-            <TouchableOpacity onPress={() => navigate('Home')}>
+            <TouchableOpacity onPress={() => navigate('Champ', {champ: r})}>
               <Text style={styles.searchListText}>{r.champion.body}</Text>
             </TouchableOpacity>
           }

@@ -19,9 +19,6 @@ export default class HomeScreen extends Component {
       isReady: false,
     };
   }
-  componentWillMount() {
-    Expo.ScreenOrientation.allow(Expo.ScreenOrientation.Orientation.PORTRAIT);
-  }
   async componentDidMount() {
     await Expo.Font.loadAsync({
       'VincHand': require('../fonts/VincHand-Regular.ttf'),
@@ -35,29 +32,30 @@ export default class HomeScreen extends Component {
       return <Expo.AppLoading />
     }
     const { navigate } = this.props.navigation;
-    const showComingSoonAlert = () => {
-      Alert.alert( 'Coming soon...' )
-    }
+    const champData = this.props.navigation.state.params.champ;
     return (
       <View style={styles.container}>
         <View style={styles.titleContainer}>
           <Text style={styles.title}>
-            {'LOLDrafts -alpha- \n'}
+            {champData.champion.body + ' Counters \n'}
           </Text>
         </View>
-        <View style={styles.buttonContainer}>
-          <TouchableOpacity onPress={() => navigate('Search')}>
-            <Text style={styles.buttonText}>
-              {'Search Champion'}
-            </Text>
-          </TouchableOpacity>
-          <TouchableOpacity onPress={ showComingSoonAlert }>
-            <Text style={styles.buttonText}>
-              {'Send Feedback'}
-            </Text>
-          </TouchableOpacity>
-        </View>
-        <View style={styles.banner}>
+        <View style={styles.counterContainer}>
+          <Text style={styles.counterText}>
+            {'Jax'}
+          </Text>
+          <Text style={styles.counterText}>
+            {'Teemo'}
+          </Text>
+          <Text style={styles.counterText}>
+            {'Pantheon'}
+          </Text>
+          <Text style={styles.counterText}>
+            {'Fiora'}
+          </Text>
+          <Text style={styles.counterText}>
+            {'Riven'}
+          </Text>
         </View>
       </View>
     );

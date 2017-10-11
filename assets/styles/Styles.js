@@ -27,8 +27,19 @@ export const styles = StyleSheet.create({
   },
   buttonText: {
     fontFamily: 'VincHand',
+    fontSize: 32,
+    margin: 32,
+  },
+  counterContainer: {
+    alignItems: 'center',
+    flex: 1,
+    flexDirection: 'column',
+    justifyContent: 'center',
+  },
+  counterText: {
+    fontFamily: 'AvantGarde',
     fontSize: 28,
-    margin: 30,
+    margin: 20,
   },
   banner: {
     alignSelf: 'center',
@@ -50,7 +61,7 @@ export const styles = StyleSheet.create({
   searchListText: {
     alignSelf: 'center',
     fontFamily: 'AvantGarde',
-    fontSize: 20,
+    fontSize: 24,
     margin: 6,
   },
 });
